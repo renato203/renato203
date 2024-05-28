@@ -1,9 +1,7 @@
-
-
 ### Olá! Eu sou o Renato Reis 🖐️
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-reis-b47b491aa/)
-[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renato203/renato203)
+[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renato203)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatoo.reiss/)
 
 ![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renato203&show_icons=true&theme=merko)
